@@ -25,9 +25,8 @@ The lyrics will be displayed below the search button.
 ## Code Structure
 
 `src/` - Contains the React components and application logic.
-`src/App.js` - Main application component.
-`src/components/` - Directory for additional React components.
-`src/services/` - Directory for API service functions.
+`src/Lyrics.jsx` - Main application component.
+`src/index.css` - This is a styling component.
 
 ## Contributing
 
